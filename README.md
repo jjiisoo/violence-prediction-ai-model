@@ -1,8 +1,7 @@
-# 음성 데이터에서 폭력 감지를 위한 1D-2D 비교 및 모델 최적화
+# Comparative Analysis and Optimization of 1D and 2D Audio Models for Violence Detection
 
-**한국인공지능융합기술학회 우수발표논문상 수상작**
+**Awarded Best Presentation Paper at the 2024 Korean Society for Artificial Intelligence Convergence Technology Fall Conference**
 
 ---
 
-최근 인공지능 기술 발전과 더불어 오디오 데이터를 활용한 실시간 폭력 탐지 연구가 활발히 진행되고 있습니다.
-본 프로젝트에서는 Residual Network 기반 딥러닝 모델을 통해 1D 오디오 신호와 2D Mel-Spectrogram을 비교 분석하여 폭력 음성과 비폭력 음성을 효과적으로 구분하는 방법을 제안합니다.  
+This project compares 1D audio signals and 2D Mel-Spectrograms to effectively detect violent sounds that are often missed in blind spots, aiming to contribute to early prevention and enhanced safety.
