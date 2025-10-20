@@ -1,10 +1,11 @@
-# Comparative Analysis and Optimization of 1D and 2D Audio Models for Violence Detection
+# 음성 데이터에서 폭력 감지를 위한 1D-2D 비교 및 모델 최적화
 
 **🏆2024년 한국인공지능융합기술학회 우수 발표 논문상 수상**
 
 ---
 
-This project compares 1D audio signals and 2D Mel-Spectrograms to effectively detect violent sounds that are often missed in blind spots, aiming to contribute to early prevention and enhanced safety.
+현대 사회에서 일상 속 폭력 상황이 빈번하게 발생하면서, 이를 실시간으로 탐지하는 기술의 필요성이 커지고 있다. 기존 영상 기반 방법은 CCTV 사각지대 등에서 한계가 존재하지만, 오디오는 이러한 시각적 제약을 극복할 수 있다.
+본 연구는 음성 데이터를 활용해 일상 생활에서 발생하는 소리를 분석하고 폭력적, 비폭력적 음성을 실시간으로 구분하는 모델을 제안한다.
 
 ## Tech Stack
 
