@@ -61,7 +61,7 @@
 따라서 본 연구에서는 폭력 오디오 데이터의 특징 추출을 위해 멜 스펙트로그램을 활용했다.
 
 ### 스펙트로그램 이미지
-![Mel Spectrogram 예시](./images/mel_spectrogram_example.png)
+![Mel Spectrogram 예시](spectrogram.PNG)
 
 --
 
