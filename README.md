@@ -106,11 +106,5 @@
 
 - **성능 평가**  
   - 지표: Accuracy, Loss, Confusion Matrix  
-  - 최종 Test Accuracy: **90.91%** (표 3 참조)
+  - 최종 Test Accuracy: **90.91%**
 
-### 📊 Confusion Matrix (최종 모델 성능)
-
-|               | **Predicted Positive** | **Predicted Negative** |
-|----------------|-------------------------|-------------------------|
-| **Actual Positive** | 65 | 11 |
-| **Actual Negative** | 2  | 65 |
