@@ -1,6 +1,6 @@
 # Comparative Analysis and Optimization of 1D and 2D Audio Models for Violence Detection
 
-**🏆Recipient of the Excellent Paper Award at the 2024 Korean Society for Artificial Intelligence Convergence Technology Fall Conference**
+**🏆2024년 한국인공지능융합기술학회 우수 발표 논문상 수상**
 
 ---
 
