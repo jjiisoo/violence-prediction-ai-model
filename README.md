@@ -18,7 +18,7 @@
 
 
 ### 1️⃣ 데이터 수집
-- **영어 데이터**: *Kaggle – Audio-based Violence Detection Dataset* (일부만 사용)  
+- **영어 데이터**: *Kaggle – Audio-based Violence Detection Dataset* (일부만 사용) [데이터 링크](http://kaggle.com/datasets/fangfangz/audio-based-violence-detection-dataset)
 - **한국어 데이터**: *YouTube 직접 수집* (실생활 대화·뉴스 음성 활용, 폭력 음성 추출)
 
 ### 2️⃣ 데이터 전처리
