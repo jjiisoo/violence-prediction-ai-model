@@ -107,7 +107,8 @@
 - **최종 결과**  
   - 지표: Accuracy, Loss, Confusion Matrix  
   - 최종 Test Accuracy: **90.91%**
-  - Confusion Matrix ![Confusion Matrix](confusion.PNG)
+  - Confusion Matrix
+    ![Confusion Matrix](confusion.PNG)
 
 ---
 
